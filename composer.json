@@ -1,0 +1,8 @@
+{
+    "name": "attitude/standalone-phpenkoder",
+    "autoload": {
+        "psr-4": {
+            "": "/"
+        }
+    }
+}
